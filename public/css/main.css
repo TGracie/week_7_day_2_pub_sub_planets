@@ -1,0 +1,16 @@
+/* * {
+  font-color: white;
+
+}; */
+
+
+body {
+  background-color: goldenrod;
+  background-image: url("maxresdefault.jpg");
+  color: goldenrod;
+
+};
+
+.planet-details {
+  align-items: center;
+}
